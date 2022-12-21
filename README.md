@@ -10,4 +10,4 @@ my first experience
 ---
 [Github](https://www.github.com)
 
-![alt text](image.jpg)
+![alt text](github-mark-white.png)
